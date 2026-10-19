@@ -3,7 +3,7 @@ data/
 .cache/
 
 # trained models (re-create with `python -m src.train`)
-models/*.keras
+
 models/*.h5
 
 # python
