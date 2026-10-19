@@ -1,0 +1,19 @@
+# data & caches (too big for git)
+data/
+.cache/
+
+# trained models (re-create with `python -m src.train`)
+models/*.keras
+models/*.h5
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
