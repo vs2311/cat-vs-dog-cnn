@@ -1,4 +1,5 @@
 # Cat vs Dog Classifier (CNN, Transfer Learning)
+**Live demo:** https://cat-vs-dog-cnn-b4enyogxetf47unxbgw5mq.streamlit.app/
 
 A computer-vision project that classifies images as **cat** or **dog** using a
 MobileNetV2 CNN pretrained on ImageNet and fine-tuned with TensorFlow/Keras.
